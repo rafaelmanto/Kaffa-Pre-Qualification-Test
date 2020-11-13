@@ -6,4 +6,4 @@ Here's a GIF of me showing how to run my code.
 
 ![](How-to-run-my-code-in-Colab.gif)
 
-I chosed to write my code on Colab because it's a simple and elegant way to show it, and you can easily change the test variable.
+I chose to write my code on Colab because it's a simple and elegant way to show it, and you can easily change the test variable.
